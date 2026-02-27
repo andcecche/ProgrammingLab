@@ -1,0 +1,6 @@
+print('Parola:')
+parola=input()
+print('lettera:')
+lettera=input()
+i=parola.count(lettera)
+print(str(i))
