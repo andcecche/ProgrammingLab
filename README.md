@@ -1,4 +1,4 @@
-# ProgrammingLab1
+# ProgrammingLab
 Laboratorio di programmazione di python con Nenzi Laura
 
 Nella cartella ProgrammingLab2 sono presenti gli esercizi richiesti dal corso.
