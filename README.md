@@ -1,2 +1,2 @@
-# ProgrammingLab 1
+# ProgrammingLab1
 
