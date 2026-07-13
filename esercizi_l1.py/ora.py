@@ -3,7 +3,7 @@ def ore_minuti(i):
     while i>60 :
         ore=ore+1
         i=i-60
-        print(f"Sono: {ore} ore e {i} minuti ")
+    print(f"Sono: {ore} ore e {i} minuti ")
 
 
 i=538
